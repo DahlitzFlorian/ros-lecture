@@ -1,0 +1,2 @@
+beginner_tutorials:publisher_subscriber
+-DCATKIN_DEVEL_PREFIX=/home/floriandahlitz/workspace/pnp/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/floriandahlitz/workspace/pnp/ros_ws/install -G Unix Makefiles

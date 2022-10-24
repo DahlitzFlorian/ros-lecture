@@ -1,0 +1,8 @@
+prefix=/home/floriandahlitz/workspace/pnp/ros_ws/devel
+
+Name: publisher_subscriber
+Description: Description of publisher_subscriber
+Version: 0.0.0
+Cflags: -I/home/floriandahlitz/workspace/pnp/ros_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
